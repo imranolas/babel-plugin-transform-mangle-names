@@ -1,6 +1,8 @@
 # babel-plugin-transform-mangle-names
 An ES2015-aware Babel plugin to generate shorter names for variables and function arguments.
 
+[![NPM](https://nodei.co/npm/babel-plugin-transform-mangle-names.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-plugin-transform-mangle-names)
+
 ## Installation
 
 ```sh
