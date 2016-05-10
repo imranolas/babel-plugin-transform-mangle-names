@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-transform-mangle-names",
+  "version": "1.0.0",
+  "description": "A JavaScript name mangler plugin for Babel",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel",
+    "escompress",
+    "mangle",
+    "mangler",
+    "plugin"
+  ],
+  "author": "Chris Shepherd <chris@chrisshepherd.me>",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
