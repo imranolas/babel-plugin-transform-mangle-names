@@ -15,6 +15,10 @@
     "mangler",
     "plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escompress/babel-plugin-transform-mangle-names.git"
+  },
   "author": "Chris Shepherd <chris@chrisshepherd.me>",
   "license": "MIT",
   "devDependencies": {
